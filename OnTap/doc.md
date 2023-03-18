@@ -13,3 +13,7 @@ RESTful API:
 +POST
 
 Postman dùng để test API
+
+Các cách để kết nối remote với local
+
+1.Clone code 2.
